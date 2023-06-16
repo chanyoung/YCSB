@@ -23,3 +23,8 @@ output*
 # ignore standard Mac OS X files/dirs
 .DS_Store
 /differentbin/
+
+# ignore kvssd native files
+kvssd/src/main/java/site/ycsb/db/*.class
+kvssd/src/main/java/site/ycsb/db/*.o
+kvssd/src/main/java/site/ycsb/db/*.so

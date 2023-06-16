@@ -201,6 +201,7 @@ LICENSE file.
     <module>solr7</module>
     <module>tarantool</module>
     <module>tablestore</module>
+    <module>kvssd</module>
     <module>voltdb</module>
     <module>zookeeper</module>
   </modules>
